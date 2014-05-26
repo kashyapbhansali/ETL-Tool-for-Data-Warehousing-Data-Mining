@@ -1,0 +1,100 @@
+﻿1001 Azerbaijan 15/05/14 15 Trinidad and Tobago 27/05/14 5 Kingfisher 2 NULL
+1002 Greece 15/06/14 19 Somalia 18/03/14 22 AirIndia 2 Full
+1003 Turkey 06/02/14 16 Antarctica 11/06/14 17 AirIndia 2 Full
+1004 Colombia 21/06/14 18 Chile 02/02/14 11 AirIndia 3 Full
+1005 Sint Maarten 18/06/14 8 Togo 22/01/14 5 AirIndia 1 Full
+1006 Croatia 26/02/14 13 Ivory Coast 01/03/14 12 Kingfisher 4 Full
+1007 Iran 27/04/14 23 Canada 18/07/14 20 Kingfisher 3 Full
+1008 Faroe Islands 19/02/14 12 Comoros 26/08/14 16 Kingfisher 2 Full
+1009 United States 02/06/14 9 Gibraltar 21/04/14 23 SpiceJet 4 Full
+1010 South Africa 05/02/14 24 Aruba 12/08/14 21 AirIndia 1 Full
+1011 Congo 11/05/14 16 Botswana 11/02/14 9 SpiceJet 4 Full
+1012 Senegal 10/02/14 6 San Marino 21/01/14 10 AirIndia 3 Full
+1013 Saudi Arabia 17/02/14 20 Mali 18/04/14 3 SpiceJet 4 Partial
+1014 Aruba 17/01/14 12 Macao 06/03/14 17 SpiceJet 4 Full
+1015 British Indian Ocean Territory 04/01/14 13 Spain 10/05/14 10 AirIndia 5 NULL
+1016 American Samoa 04/03/14 23 Congo 15/05/14 14 AirIndia 2 Full
+1017 Burkina Faso 03/05/14 18 Norfolk Island 14/02/14 12 SpiceJet 4 Partial
+1018 Portugal 31/03/14 18 Croatia 03/06/14 11 SpiceJet 2 Full
+1019 Samoa 17/04/14 15 Pitcairn Islands 17/05/14 13 SpiceJet 5 Full
+1020 French Polynesia 17/02/14 14 Gibraltar 21/02/14 2 SpiceJet 5 Partial
+1021 Belarus 10/04/14 24 Fiji 05/02/14 2 AirIndia 1 Partial
+1022 Hong Kong 03/01/14 7 Botswana 18/02/14 11 AirIndia 5 Partial
+1023 Nepal 07/06/14 24 British Indian Ocean Territory 24/07/14 23 AirIndia 5 Full
+1024 Ecuador 23/06/14 23 Bhutan 04/04/14 17 Kingfisher 5 Full
+1025 Nicaragua 06/02/14 22 India 12/06/14 0 AirIndia 4 Partial
+1026 Bolivia 07/05/14 11 Brunei 03/01/14 2 SpiceJet 2 Full
+1027 Palau 21/04/14 21 Congo (Brazzaville) 04/03/14 1 SpiceJet 2 Full
+1028 Costa Rica 24/01/14 15 Cyprus 07/06/14 2 SpiceJet 2 Partial
+1029 Bermuda 16/02/14 13 Albania 11/08/14 24 Kingfisher 1 Full
+1030 Nigeria 09/06/14 6 Brunei 15/04/14 5 SpiceJet 2 Partial
+1031 Angola 27/06/14 9 Laos 09/03/14 11 Kingfisher 4 Partial
+1032 Puerto Rico 25/02/14 17 Viet Nam 31/03/14 10 Kingfisher 1 Full
+1033 Libya 09/05/14 17 France 02/08/14 19 AirIndia 1 Full
+1034 Bahrain 08/05/14 13 Monaco 06/02/14 2 AirIndia 2 Full
+1035 Ireland 02/06/14 22 Switzerland 02/08/14 15 SpiceJet 2 Full
+1036 Trinidad and Tobago 18/01/14 16 Niue 20/06/14 15 AirIndia 1 Partial
+1037 Thailand 08/04/14 23 El Salvador 19/07/14 21 SpiceJet 3 Full
+1038 Bouvet Island 17/02/14 15 Isle of Man 29/01/14 4 Kingfisher 2 Full
+1039 Norway 18/06/14 7 Equatorial Guinea 06/04/14 21 AirIndia 1 Full
+1040 Somalia 30/01/14 20 Greenland 27/07/14 17 Kingfisher 2 Partial
+1041 Isle of Man 14/03/14 15 Congo, the Democratic Republic of the 20/02/14 3 SpiceJet 3 Full
+1042 Malaysia 08/03/14 19 Belgium 20/06/14 7 Kingfisher 1 Partial
+1043 Paraguay 04/05/14 14 Lesotho 27/05/14 13 Kingfisher 2 Full
+1044 South Sudan 07/05/14 7 Georgia 18/05/14 14 Kingfisher 2 NULL
+1045 Costa Rica 24/06/14 15 Malta 31/07/14 12 AirIndia 3 Partial
+1046 Montenegro 16/02/14 7 Mauritius 05/03/14 17 Kingfisher 3 Full
+1047 Ukraine 13/02/14 24 American Samoa 10/03/14 13 SpiceJet 4 Full
+1048 Palau 02/05/14 14 Syria 18/07/14 13 Kingfisher 1 Full
+1049 Isle of Man 08/04/14 6 British Indian Ocean Territory 19/01/14 21 AirIndia 3 Full
+1050 Tunisia 27/05/14 7 Egypt 20/01/14 3 SpiceJet 1 Full
+1051 Norway 07/01/14 24 Honduras 22/08/14 5 AirIndia 4 Full
+1052 Guatemala 08/02/14 15 French Polynesia 18/03/14 14 SpiceJet 2 Full
+1053 Lesotho 10/06/14 13 Moldova 25/02/14 11 SpiceJet 1 NULL
+1054 Jamaica 15/06/14 13 Cocos (Keeling) Islands 14/05/14 24 SpiceJet 3 Full
+1055 Argentina 17/04/14 24 Gabon 26/07/14 0 Kingfisher 4 Partial
+1056 Pakistan 24/02/14 17 Taiwan 28/03/14 10 SpiceJet 3 Full
+1057 Thailand 06/02/14 9 London 11/07/14 20 Kingfisher 4 Partial
+1058 Monaco 15/03/14 19 Hong Kong 05/02/14 5 AirIndia 5 Full
+1059 Bonaire11-02-14 18 Czech Republic 08/05/14 9 Kingfisher 3 Partial
+1060 Sri Lanka 14/04/14 12 British Indian Ocean Territory 31/07/14 9 AirIndia 5 Partial
+1061 Antigua and Barbuda 12/03/14 10 Guinea-Bissau 13/08/14 16 Kingfisher 4 Partial
+1062 Venezuela 08/02/14 23 United States 26/03/14 19 SpiceJet 2 Partial
+1063 Mongolia 11/04/14 16 Antigua and Barbuda 10/05/14 19 Kingfisher 5 Full
+1064 Guam 24/01/14 11 Bulgaria 01/02/14 4 SpiceJet 5 Full
+1065 Myanmar 12/01/14 8 Mauritius 20/01/14 6 AirIndia 1 Partial
+1066 Central African Republic 01/05/14 14 American Samoa 29/08/14 24 SpiceJet 4 Partial
+1067 American Samoa 11/01/14 15 Austria 13/03/14 20 AirIndia 3 Partial
+1068 China 14/06/14 9 Austria 08/07/14 22 AirIndia 4 Partial
+1069 Vanuatu 26/05/14 19 Georgia 27/07/14 17 SpiceJet 2 Full
+1070 Zimbabwe 01/01/14 16 Philippines 27/05/14 19 AirIndia 5 Partial
+1071 Cuba 03/02/14 11 Argentina 20/04/14 23 Kingfisher 1 Full
+1072 Mumbai 28/06/14 21 Sydney 29/05/14 21 Kingfisher 2 Partial
+1073 Sierra Leone 03/02/14 24 Japan 14/06/14 16 SpiceJet 4 Partial
+1074 Uzbekistan 20/05/14 21 Jordan 04/03/14 15 Kingfisher 2 Full
+1075 Bermuda 01/05/14 23 Libya 04/01/14 22 SpiceJet 1 NULL
+1076 Tokyo 15/05/14 11 Iraq 25/07/14 9 SpiceJet 2 Partial
+1077 Virgin Islands 11/03/14 12 Gabon 16/01/14 22 AirIndia 2 Full
+1078 Kazakhstan 18/01/14 17 Niger 09/04/14 9 AirIndia 5 Full
+1079 Turkey 10/04/14 16 Afghanistan 01/03/14 24 Kingfisher 1 NULL
+1080 Saint Vincent and The Grenadines 28/04/14 13 Tuvalu 11/07/14 14 Kingfisher 2 Full
+1081 Central African Republic 24/04/14 7 South Africa 16/03/14 19 SpiceJet 2 Partial
+1082 Greenland 24/01/14 17 Equatorial Guinea 11/01/14 12 SpiceJet 1 Partial
+1083 Mongolia 30/05/14 8 Sri Lanka 04/02/14 15 SpiceJet 4 Full
+1084 Gibraltar 04/02/14 16 Jersey 07/07/14 16 AirIndia 5 Full
+1085 Saudi Arabia 04/01/14 17 Saint Kitts and Nevis 22/06/14 16 AirIndia 5 Full
+1086 Cuba 04/02/14 23 Malta 13/08/14 20 SpiceJet 5 Full
+1087 Chile 22/05/14 15 Libya 26/02/14 0 AirIndia 5 Full
+1088 Laos 28/01/14 19 Libya 30/05/14 0 SpiceJet 1 NULL
+1089 Sudan 25/06/14 14 Seychelles 10/03/14 13 Kingfisher 3 Full
+1090 Vancouver 01/05/14 13 Kenya 27/06/14 18 Kingfisher 4 Full
+1091 United States 27/05/14 18 Congo (Brazzaville) 31/07/14 1 SpiceJet 1 Partial
+1092 Pakistan 15/01/14 24 Romania 20/07/14 18 AirIndia 3 Partial
+1093 Syria 05/01/14 18 Egypt 27/04/14 18 Kingfisher 2 Full
+1094 Burkina Faso 29/06/14 14 Cook Islands 17/05/14 6 SpiceJet 4 Partial
+1095 Christmas Island 12/06/14 10 Anguilla 17/01/14 18 SpiceJet 4 Partial
+1096 Jordan 14/02/14 17 Philippines 18/02/14 22 SpiceJet 1 Full
+1097 Somalia 28/03/14 20 Mongolia 02/07/14 23 AirIndia 4 Partial
+1098 Gibraltar 11/05/14 12 Montserrat 16/01/14 11 SpiceJet 2 NULL
+1099 Tunisia 24/05/14 16 Pitcairn Islands 01/05/14 17 AirIndia 1 Full
+1100 Rwanda 10/06/14 21 Pakistan 17/01/14 24 AirIndia 2 Full

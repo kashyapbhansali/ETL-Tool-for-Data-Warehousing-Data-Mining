@@ -1,0 +1,100 @@
+10001 Risus Corporation 1 No No Yes Yes Yes Yes No Yes 
+10002 Donec Felis Consulting 3 Yes Yes Yes No No No No No 
+10003 Sagittis Felis Institute 5 No No No Yes No No Yes No 
+10004 Nibh Quisque Inc. 3 Yes No Yes Yes No Yes Yes Yes 
+10005 Malesuada Augue Ut Ltd 2 Yes Yes Yes No No Yes No No 
+10006 Massa Integer Foundation 4 Yes No No Yes No No Yes Yes 
+10007 Montes Nascetur Ridiculus LLC 5 Yes No No Yes Yes Yes Yes No 
+10008 A Feugiat Corp. 1 Yes No Yes No Yes Yes No No 
+10009 Semper Company 5 No No No Yes No Yes No No 
+10010 Proin LLP 4 Yes No No No Yes No Yes Yes 
+10011 Semper Cursus Integer Company 1 Yes No No Yes Yes Yes Yes No 
+10012 Proin PC 5 Yes Yes No No No Yes No No 
+10013 Semper Dui Lectus LLP 1 No Yes Yes No Yes Yes Yes No 
+10014 Proin Eget LLC 3 No Yes No No No No Yes Yes 
+10015 Ullamcorper PC 1 Yes Yes No Yes Yes No No No 
+10016 Congue A Aliquet Associates 4 No No No Yes Yes No No No 
+10017 Urna Et Associates 1 No Yes No No No No No Yes 
+10018 Urna Limited 3 Yes Yes No Yes Yes No Yes Yes 
+10019 Gravida Inc. 5 No No Yes No No Yes No Yes 
+10020 Elementum Lorem Ut Foundation 4 No Yes No Yes No No No Yes 
+10021 Aliquam Tincidunt Nunc Industries 5 Yes Yes No Yes Yes No Yes No 
+10022 Molestie Sodales Institute 5 No Yes Yes No Yes No No No 
+10023 Elit LLP 3 No Yes Yes Yes Yes No Yes Yes 
+10024 Molestie Corporation 1 No Yes Yes No Yes No No No 
+10025 Scelerisque LLP 5 Yes Yes Yes No No No No No 
+10026 Aliquam Ultrices Iaculis LLP 5 Yes Yes No No No Yes No Yes 
+10027 Nulla Eget Metus Industries 5 No No Yes No No No Yes No 
+10028 At Institute 4 No Yes No Yes No No Yes No 
+10029 Duis Elementum Incorporated 4 Yes Yes No Yes No Yes Yes No 
+10030 Proin Nisl Sem Associates 2 Yes Yes No Yes Yes No No Yes 
+10031 Curabitur Consequat Lectus Institute 3 Yes Yes Yes Yes No No Yes No 
+10032 Vulputate Posuere Company 4 No No Yes Yes Yes No Yes No 
+10033 Vitae Odio Institute 5 No Yes No Yes No No Yes Yes 
+10034 Hendrerit Neque In Inc. 2 Yes Yes No Yes Yes No No Yes 
+10035 Ligula Nullam Corporation 4 No Yes Yes No Yes No Yes No 
+10036 Erat Semper Associates 1 Yes Yes Yes Yes No Yes Yes No 
+10037 Vitae Mauris PC 4 No Yes Yes Yes Yes Yes No No 
+10038 Blandit Viverra Donec PC 1 No Yes No No Yes No Yes Yes 
+10039 Iaculis Odio Foundation 2 Yes Yes Yes No Yes No No Yes 
+10040 Convallis Est Inc. 1 Yes No No No No Yes No No 
+10041 Feugiat Tellus Associates 2 No No No No No Yes No Yes 
+10042 Quam Elementum At Industries 1 Yes No No No No Yes Yes Yes 
+10043 Integer Tincidunt Aliquam LLC 1 Yes No No Yes No No No No 
+10044 Auctor Mauris Institute 3 No Yes Yes Yes No Yes No Yes 
+10045 Ornare Facilisis Eget Incorporated 5 No Yes No No Yes No Yes Yes 
+10046 Nec Inc. 5 Yes Yes No Yes Yes Yes No Yes 
+10047 Enim LLC 4 No Yes Yes Yes Yes Yes No No 
+10048 Et Incorporated 2 Yes Yes No No Yes No Yes No 
+10049 Non Vestibulum Ltd 4 Yes Yes Yes No No Yes Yes Yes 
+10050 Faucibus Corp. 4 No No Yes No Yes No No No 
+10051 Viverra Company 1 No Yes No No Yes Yes Yes Yes 
+10052 Penatibus Et Magnis LLC 2 Yes No No No Yes No No Yes 
+10053 Erat In Consectetuer Incorporated 1 No No No No No No No Yes 
+10054 Et Tristique Inc. 5 No Yes No Yes Yes No Yes Yes 
+10055 Convallis Limited 4 No No No No No Yes Yes Yes 
+10056 Sodales LLP 1 Yes No No Yes Yes No Yes Yes 
+10057 Conubia Nostra Ltd 1 No Yes Yes No No No Yes No 
+10058 Gravida Ltd 4 Yes No No No No Yes No No 
+10059 Diam Dictum Inc. 5 No Yes No No Yes Yes Yes Yes 
+10060 Vulputate Ullamcorper LLP 4 Yes No Yes Yes No No No No 
+10061 Magna Corp. 4 No Yes No Yes No Yes Yes Yes 
+10062 Quis Corp. 4 No No No No No No No Yes 
+10063 Egestas Blandit Industries 2 Yes Yes Yes Yes Yes No No No 
+10064 Penatibus Et Industries 5 No Yes No Yes No No Yes No 
+10065 Nec Imperdiet Nec Corporation 1 No Yes No No No No No No 
+10066 Elementum Incorporated 3 Yes No No No Yes Yes Yes Yes 
+10067 Congue In Scelerisque Corp. 1 Yes Yes No Yes No Yes No Yes 
+10068 Dui Quis Ltd 3 No Yes Yes No No Yes No Yes 
+10069 Sem Consequat Nec Associates 2 No Yes No No No No No Yes 
+10070 Cursus LLP 1 Yes No Yes Yes No No No No 
+10071 Magnis LLP 1 Yes Yes No No Yes Yes Yes Yes 
+10072 Dui In Limited 5 No Yes Yes No Yes Yes No Yes 
+10073 Euismod LLC 2 Yes Yes No Yes No No Yes No 
+10074 Orci Incorporated 4 Yes No Yes No Yes Yes No No 
+10075 Libero At Corp. 5 No Yes Yes Yes Yes Yes No No 
+10076 Rutrum Foundation 2 No Yes No Yes Yes Yes No Yes 
+10077 Gravida Nunc Foundation 3 No Yes No Yes No No No Yes 
+10078 In Hendrerit Consectetuer Industries 3 Yes Yes No No No Yes Yes No 
+10079 Sapien Cras Associates 4 Yes No No No Yes Yes Yes Yes 
+10080 Orci LLC 4 No No No Yes Yes No Yes No 
+10081 Porttitor Consulting 1 No No Yes Yes No No Yes No 
+10082 Interdum Ligula Eu PC 3 Yes No Yes No Yes No Yes Yes 
+10083 Nec Malesuada Foundation 1 Yes No No Yes Yes Yes Yes No 
+10084 Convallis Erat Eget Consulting 4 Yes Yes No Yes Yes Yes Yes No 
+10085 Dui Cras Corp. 4 Yes No Yes Yes No No No No 
+10086 Blandit Congue In PC 2 No No Yes No Yes No Yes Yes 
+10087 Penatibus Et Corporation 1 Yes No No Yes No No No Yes 
+10088 Donec Est Mauris Inc. 5 Yes Yes No Yes No No Yes Yes 
+10089 Orci Luctus Et Foundation 5 Yes Yes Yes No Yes Yes No Yes 
+10090 Mi Fringilla Company 3 No Yes No Yes No Yes No No 
+10091 Risus Duis A Company 4 Yes No Yes No No No Yes No 
+10092 Nisl Ltd 2 No Yes Yes No Yes No Yes No 
+10093 In Incorporated 3 No Yes No Yes Yes Yes No No 
+10094 Ante Ipsum Primis Corp. 4 No Yes Yes Yes No Yes No No 
+10095 Feugiat Placerat Corp. 4 Yes No Yes Yes Yes Yes No No 
+10096 Cras Ltd 5 Yes No Yes No No No No No 
+10097 Neque Sed Sem Company 4 No No Yes No Yes No No No 
+10098 Dolor Egestas Rhoncus Corporation 1 No No No No No No Yes Yes 
+10099 Accumsan Corp. 1 Yes Yes No No No Yes No Yes 
+10100 Feugiat Nec Diam Associates 1 No Yes Yes No No No Yes Yes 

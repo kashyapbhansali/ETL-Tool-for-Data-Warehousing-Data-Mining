@@ -1,0 +1,100 @@
+20001 15178 Martinique 7 Monsoon
+20002 101358 Netherlands 5 Monsoon
+20003 241540 Libya 11 Winter
+20004 32520 Hong Kong 11 Summer
+20005 54527 Indonesia 4 Winter
+20006 3070 Central African Republic 13
+20007 41891 Andorra 9 Winter
+20008 207611 Fiji 9 Summer
+20009 34451 Norway 10 Summer
+20010 193864 Guinea 13 Monsoon
+20011 290892 Liechtenstein 3 Monsoon
+20012 115146 Niue 8 Monsoon
+20013 201001 Lithuania 3 Monsoon
+20014 48789 Reunion 12 Summer
+20015 58207 French Southern Territories 5 Summer
+20016 289019 Togo 11 Summer
+20017 244712 Sudan 11 Monsoon
+20018 123023 Sri Lanka 6 Monsoon
+20019 272245 Palau 6 Summer
+20020 163608 Bulgaria 15 Summer
+20021 114433 Montenegro 5 Winter
+20022 63687 Argentina 9 Winter
+20023 112432 Russian Federation 7 Winter
+20024 12454 Finland 5 Monsoon
+20025 160470 Somalia 9 Winter
+20026 61856 Singapore 9
+20027 67581 Tunisia 11 Monsoon
+20028 161788 Greenland 9 Monsoon
+20029 246615 Switzerland 3 Summer
+20030 77036 Kazakhstan 7 Winter
+20031 270297 Finland 13 Summer
+20032 240496 Norway 4 Winter
+20033 127014 Yemen 8 Winter
+20034 91865 Palau 7 Monsoon
+20035 22970 Bahrain 8 Summer
+20036 229476 Northern Mariana Islands 10 Monsoon
+20037 87050 Morocco 7 Monsoon
+20038 136125 Macao 15 Monsoon
+20039 230129 Martinique 3 Monsoon
+20040 234304 Greece 3 Summer
+20041 31322 Cook Islands 13
+20042 99196 Brazil 4 Monsoon
+20043 230299 Turkmenistan 14 Winter
+20044 144490 Kuwait 10 Summer
+20045 170707 Bolivia 15 Monsoon
+20046 65564 El Salvador 6 Winter
+20047 54607 Panama 15 Winter
+20048 287542 Bahamas 7 Winter
+20049 224675 Brunei 8 Monsoon
+20050 67293 Tokelau 10 Summer
+20051 72928 Korea 7 Summer
+20052 61867 London 15 Summer
+20053 259218 South Sudan 14 Monsoon
+20054 206018 Ecuador 13 Monsoon
+20055 295658 Canada 10 Monsoon
+20056 5253 Iran 15
+20057 62846 Norway 3 Summer
+20058 96659 Laos 7 Winter
+20059 275815 Colombia 7 Monsoon
+20060 242262 Saint Pierre 11 Summer
+20061 29643 Bhutan 9 Winter
+20062 172282 Micronesia 11 Monsoon
+20063 252613 Saint Lucia 3 Summer
+20064 75411 American Samoa 13 Summer
+20065 106376 United Arab Emirates 7 Winter
+20066 299943 Zambia 5 Monsoon
+20067 263245 Burkina Faso 4 Monsoon
+20068 118108 Liechtenstein 13 Monsoon
+20069 259196 Bulgaria 6 Summer
+20070 277408 Congo (Brazzaville) 13 Monsoon
+20071 87993 Benin 15 Summer
+20072 76375 Estonia 12 Monsoon
+20073 276328 Bangladesh 3 Monsoon
+20074 131157 Solomon Islands 5 Summer
+20075 158264 Toronto 8 Summer
+20076 67612 Tunisia 13 Monsoon
+20077 171463 Bouvet Island 12 Summer
+20078 20879 Romania 6 Winter
+20079 173583 Liechtenstein 10 Summer
+20080 293551 Swaziland 7 Monsoon
+20081 44753 Central African Republic 13
+20082 239523 Zimbabwe 9 Monsoon
+20083 225000 Albania 15 Monsoon
+20084 89279 Canada 10 Summer
+20085 235644 Myanmar 6 Monsoon
+20086 225867 El Salvador 15 Winter
+20087 263212 Georgia 6 Summer
+20088 158971 Uruguay 4 Winter
+20089 203415 Gabon 4 Summer
+20090 156534 Pitcairn Islands 7 Summer
+20091 32674 Saint Martin 12
+20092 180588 Wallis and Futuna 14 Summer
+20093 19247 Vancouver 3 Monsoon
+20094 270419 Jamaica 8 Summer
+20095 36882 Seychelles 11 Summer
+20096 42395 China 12 Winter
+20097 231904 Solomon Islands 12 Summer
+20098 70724 Azerbaijan 13 Summer
+20099 193829 Papua New Guinea 12 Winter
+20100 206225 African 9
